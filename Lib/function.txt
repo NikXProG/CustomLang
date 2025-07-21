@@ -1,0 +1,10 @@
+
+#function for add operator +
+function add(a,b){
+    return a+b;
+}
+
+#function for sub operator -
+function sub(a,b){
+    return a-b;
+}

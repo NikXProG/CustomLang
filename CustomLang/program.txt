@@ -1,0 +1,24 @@
+use 'function.txt';
+
+b = not(222 * 22 * 23232 * 22323) * 2 + 2;
+
+#BREAKPOINT
+asas = 2 * 2 * (4 * 7 + 22);
+print(b);
+
+d = 2*2;
+
+c = 2;
+
+
+/* просто
+ многострочные
+  коментарии
+ */
+print(add(2,10) * sub(2000,200) + asas);
+
+a = read();
+
+print('Hello world ' + a);
+
+# это просто мой BREAKPOINT он не должен работать
